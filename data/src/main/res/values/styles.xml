@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="BaseStyle">
+        <item name="background">@android:color/black</item>
+    </style>
+
+</resources>
